@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "nome": "cesar",
+	"sobrenome": "silva",
+	"email": "",
+	"idade": 36,
+	"altura": 1.82,
+	"ativo": true,
+	"dataCriação": "2024-04-08"
+},
+{
+    "id": 2,
+    "nome": "adriano",
+	"sobrenome": "rocha",
+	"email": "",
+	"idade": 34,
+	"altura": 1.75,
+	"ativo": true,
+	"dataCriação": "2024-04-08"
+}]
